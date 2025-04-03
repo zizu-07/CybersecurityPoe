@@ -30,7 +30,7 @@ Installation and Setup
 
 Clone or Download the Repository
 
-git clone https://github.com/your-repository/chatbot.git
+git clone https://github.com/zizu-07/CybersecurityPoe
 
 Or manually download and extract the ZIP file.
 
